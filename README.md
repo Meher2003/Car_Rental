@@ -82,7 +82,7 @@ Ensure you have the following installed on your machine:
 ├── package.json
 ├── README.md
 └── ...
-
+```
 ## Contributing
 
 1. Fork the repository
